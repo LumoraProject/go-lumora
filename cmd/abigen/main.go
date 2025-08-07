@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/abigen"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common/compiler"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/accounts/abi/abigen"
+	"github.com/LumoraProject/go-lumora/cmd/utils"
+	"github.com/LumoraProject/go-lumora/common/compiler"
+	"github.com/LumoraProject/go-lumora/crypto"
+	"github.com/LumoraProject/go-lumora/internal/flags"
+	"github.com/LumoraProject/go-lumora/log"
 	"github.com/urfave/cli/v2"
 )
 

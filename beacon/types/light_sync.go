@@ -20,10 +20,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/beacon/merkle"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/common"
-	ctypes "github.com/ethereum/go-ethereum/core/types"
+	"github.com/LumoraProject/go-lumora/beacon/merkle"
+	"github.com/LumoraProject/go-lumora/beacon/params"
+	"github.com/LumoraProject/go-lumora/common"
+	ctypes "github.com/LumoraProject/go-lumora/core/types"
 )
 
 // HeadInfo represents an unvalidated new head announcement.

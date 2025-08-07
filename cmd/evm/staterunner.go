@@ -24,11 +24,11 @@ import (
 	"regexp"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/tests"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/core/rawdb"
+	"github.com/LumoraProject/go-lumora/core/vm"
+	"github.com/LumoraProject/go-lumora/internal/flags"
+	"github.com/LumoraProject/go-lumora/tests"
 	"github.com/urfave/cli/v2"
 )
 

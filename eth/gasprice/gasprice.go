@@ -22,15 +22,15 @@ import (
 	"slices"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/lru"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/common/lru"
+	"github.com/LumoraProject/go-lumora/core"
+	"github.com/LumoraProject/go-lumora/core/state"
+	"github.com/LumoraProject/go-lumora/core/types"
+	"github.com/LumoraProject/go-lumora/event"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/params"
+	"github.com/LumoraProject/go-lumora/rpc"
 )
 
 const sampleNumber = 3 // Number of transactions sampled in a block

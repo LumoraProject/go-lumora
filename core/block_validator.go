@@ -20,11 +20,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/LumoraProject/go-lumora/consensus"
+	"github.com/LumoraProject/go-lumora/core/state"
+	"github.com/LumoraProject/go-lumora/core/types"
+	"github.com/LumoraProject/go-lumora/params"
+	"github.com/LumoraProject/go-lumora/trie"
 )
 
 // BlockValidator is responsible for validating block headers, uncles and

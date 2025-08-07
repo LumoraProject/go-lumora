@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/crypto"
 )
 
 type Error struct {

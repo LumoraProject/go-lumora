@@ -29,9 +29,9 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set/v2"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/accounts"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 // Minimum amount of time between cache reloads. This limit applies if the platform does

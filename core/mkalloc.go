@@ -33,9 +33,9 @@ import (
 	"slices"
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/core"
+	"github.com/LumoraProject/go-lumora/rlp"
 )
 
 type allocItem struct {

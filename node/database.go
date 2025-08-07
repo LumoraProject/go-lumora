@@ -19,11 +19,11 @@ package node
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/ethdb/leveldb"
-	"github.com/ethereum/go-ethereum/ethdb/pebble"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/core/rawdb"
+	"github.com/LumoraProject/go-lumora/ethdb"
+	"github.com/LumoraProject/go-lumora/ethdb/leveldb"
+	"github.com/LumoraProject/go-lumora/ethdb/pebble"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 // DatabaseOptions contains the options to apply when opening a database.

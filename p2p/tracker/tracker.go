@@ -22,8 +22,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/metrics"
 )
 
 const (

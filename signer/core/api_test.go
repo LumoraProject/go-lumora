@@ -26,17 +26,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/signer/core"
-	"github.com/ethereum/go-ethereum/signer/core/apitypes"
-	"github.com/ethereum/go-ethereum/signer/fourbyte"
-	"github.com/ethereum/go-ethereum/signer/storage"
+	"github.com/LumoraProject/go-lumora/accounts"
+	"github.com/LumoraProject/go-lumora/accounts/keystore"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/common/hexutil"
+	"github.com/LumoraProject/go-lumora/core/types"
+	"github.com/LumoraProject/go-lumora/internal/ethapi"
+	"github.com/LumoraProject/go-lumora/rlp"
+	"github.com/LumoraProject/go-lumora/signer/core"
+	"github.com/LumoraProject/go-lumora/signer/core/apitypes"
+	"github.com/LumoraProject/go-lumora/signer/fourbyte"
+	"github.com/LumoraProject/go-lumora/signer/storage"
 )
 
 // Used for testing

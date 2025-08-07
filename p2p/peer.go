@@ -25,13 +25,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/common/mclock"
+	"github.com/LumoraProject/go-lumora/event"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/metrics"
+	"github.com/LumoraProject/go-lumora/p2p/enode"
+	"github.com/LumoraProject/go-lumora/p2p/enr"
+	"github.com/LumoraProject/go-lumora/rlp"
 )
 
 var (

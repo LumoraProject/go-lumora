@@ -20,11 +20,11 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/ethdb"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/params"
+	"github.com/LumoraProject/go-lumora/rlp"
 )
 
 // ReadDatabaseVersion retrieves the version number of the database.

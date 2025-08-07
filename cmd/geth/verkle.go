@@ -24,11 +24,11 @@ import (
 	"os"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-verkle"
+	"github.com/LumoraProject/go-lumora/cmd/utils"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/core/rawdb"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-verkle"
 	"github.com/urfave/cli/v2"
 )
 

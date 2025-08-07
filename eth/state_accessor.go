@@ -22,16 +22,16 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/eth/tracers"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/trie"
-	"github.com/ethereum/go-ethereum/triedb"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/core"
+	"github.com/LumoraProject/go-lumora/core/rawdb"
+	"github.com/LumoraProject/go-lumora/core/state"
+	"github.com/LumoraProject/go-lumora/core/types"
+	"github.com/LumoraProject/go-lumora/core/vm"
+	"github.com/LumoraProject/go-lumora/eth/tracers"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/trie"
+	"github.com/LumoraProject/go-lumora/triedb"
 )
 
 // noopReleaser is returned in case there is no operation expected

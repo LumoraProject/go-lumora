@@ -22,13 +22,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/trie/trienode"
-	"github.com/ethereum/go-ethereum/trie/utils"
-	"github.com/ethereum/go-ethereum/triedb/database"
-	"github.com/ethereum/go-verkle"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/core/types"
+	"github.com/LumoraProject/go-lumora/ethdb"
+	"github.com/LumoraProject/go-lumora/trie/trienode"
+	"github.com/LumoraProject/go-lumora/trie/utils"
+	"github.com/LumoraProject/go-lumora/triedb/database"
+	"github.com/LumoraProject/go-verkle"
 	"github.com/holiman/uint256"
 )
 

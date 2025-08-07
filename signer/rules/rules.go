@@ -24,11 +24,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/internal/jsre/deps"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/signer/core"
-	"github.com/ethereum/go-ethereum/signer/storage"
+	"github.com/LumoraProject/go-lumora/internal/ethapi"
+	"github.com/LumoraProject/go-lumora/internal/jsre/deps"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/signer/core"
+	"github.com/LumoraProject/go-lumora/signer/storage"
 )
 
 // consoleOutput is an override for the console.log and console.error methods to

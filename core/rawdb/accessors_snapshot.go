@@ -19,9 +19,9 @@ package rawdb
 import (
 	"encoding/binary"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/ethdb"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 // ReadSnapshotDisabled retrieves if the snapshot maintenance is disabled.

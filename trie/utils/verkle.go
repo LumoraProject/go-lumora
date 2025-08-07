@@ -21,9 +21,9 @@ import (
 	"sync"
 
 	"github.com/crate-crypto/go-ipa/bandersnatch/fr"
-	"github.com/ethereum/go-ethereum/common/lru"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-verkle"
+	"github.com/LumoraProject/go-lumora/common/lru"
+	"github.com/LumoraProject/go-lumora/metrics"
+	"github.com/LumoraProject/go-verkle"
 	"github.com/holiman/uint256"
 )
 

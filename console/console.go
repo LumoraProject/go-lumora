@@ -30,12 +30,12 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/ethereum/go-ethereum/console/prompt"
-	"github.com/ethereum/go-ethereum/internal/jsre"
-	"github.com/ethereum/go-ethereum/internal/jsre/deps"
-	"github.com/ethereum/go-ethereum/internal/web3ext"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/LumoraProject/go-lumora/console/prompt"
+	"github.com/LumoraProject/go-lumora/internal/jsre"
+	"github.com/LumoraProject/go-lumora/internal/jsre/deps"
+	"github.com/LumoraProject/go-lumora/internal/web3ext"
+	"github.com/LumoraProject/go-lumora/log"
+	"github.com/LumoraProject/go-lumora/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

@@ -22,10 +22,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/common/hexutil"
+	"github.com/LumoraProject/go-lumora/crypto"
+	"github.com/LumoraProject/go-lumora/rlp"
 	"github.com/holiman/uint256"
 )
 

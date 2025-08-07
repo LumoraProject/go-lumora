@@ -1,10 +1,10 @@
 package test
 
-import "github.com/ethereum/go-ethereum/common"
-import "github.com/ethereum/go-ethereum/eth"
-import "github.com/ethereum/go-ethereum/rlp"
+import "github.com/LumoraProject/go-lumora/common"
+import "github.com/LumoraProject/go-lumora/eth"
+import "github.com/LumoraProject/go-lumora/rlp"
 import "io"
-import eth1 "github.com/ethereum/go-ethereum/eth/protocols/eth"
+import eth1 "github.com/LumoraProject/go-lumora/eth/protocols/eth"
 
 func (obj *Test) EncodeRLP(_w io.Writer) error {
 	w := rlp.NewEncoderBuffer(_w)

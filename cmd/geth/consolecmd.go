@@ -21,8 +21,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/console"
+	"github.com/LumoraProject/go-lumora/cmd/utils"
+	"github.com/LumoraProject/go-lumora/console"
 	"github.com/urfave/cli/v2"
 )
 

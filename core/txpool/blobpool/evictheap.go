@@ -22,7 +22,7 @@ import (
 	"math"
 	"slices"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/LumoraProject/go-lumora/common"
 	"github.com/holiman/uint256"
 )
 

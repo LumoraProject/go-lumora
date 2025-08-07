@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ethereum/go-ethereum/internal/debug"
-	"github.com/ethereum/go-ethereum/internal/flags"
+	"github.com/LumoraProject/go-lumora/internal/debug"
+	"github.com/LumoraProject/go-lumora/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

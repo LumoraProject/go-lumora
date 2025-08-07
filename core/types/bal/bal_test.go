@@ -23,9 +23,9 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/internal/testrand"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/internal/testrand"
+	"github.com/LumoraProject/go-lumora/rlp"
 	"github.com/holiman/uint256"
 )
 

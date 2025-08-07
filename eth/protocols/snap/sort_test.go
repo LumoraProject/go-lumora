@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/LumoraProject/go-lumora/common"
 )
 
 func hexToNibbles(s string) []byte {

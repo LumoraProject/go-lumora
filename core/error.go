@@ -19,7 +19,7 @@ package core
 import (
 	"errors"
 
-	"github.com/ethereum/go-ethereum/core/types"
+	"github.com/LumoraProject/go-lumora/core/types"
 )
 
 var (

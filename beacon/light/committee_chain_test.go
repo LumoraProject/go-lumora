@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
+	"github.com/LumoraProject/go-lumora/beacon/params"
+	"github.com/LumoraProject/go-lumora/beacon/types"
+	"github.com/LumoraProject/go-lumora/common/mclock"
+	"github.com/LumoraProject/go-lumora/ethdb/memorydb"
 )
 
 var (

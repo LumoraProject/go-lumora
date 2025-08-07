@@ -19,11 +19,11 @@ package api
 import (
 	"reflect"
 
-	"github.com/ethereum/go-ethereum/beacon/light/request"
-	"github.com/ethereum/go-ethereum/beacon/light/sync"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/beacon/light/request"
+	"github.com/LumoraProject/go-lumora/beacon/light/sync"
+	"github.com/LumoraProject/go-lumora/beacon/types"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 // ApiServer is a wrapper around BeaconLightApi that implements request.requestServer.

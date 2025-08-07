@@ -19,12 +19,12 @@ package sync
 import (
 	"sort"
 
-	"github.com/ethereum/go-ethereum/beacon/light"
-	"github.com/ethereum/go-ethereum/beacon/light/request"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/beacon/light"
+	"github.com/LumoraProject/go-lumora/beacon/light/request"
+	"github.com/LumoraProject/go-lumora/beacon/params"
+	"github.com/LumoraProject/go-lumora/beacon/types"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 const maxUpdateRequest = 8 // maximum number of updates requested in a single request

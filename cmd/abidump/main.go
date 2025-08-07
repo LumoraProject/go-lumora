@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/signer/core/apitypes"
-	"github.com/ethereum/go-ethereum/signer/fourbyte"
+	"github.com/LumoraProject/go-lumora/signer/core/apitypes"
+	"github.com/LumoraProject/go-lumora/signer/fourbyte"
 )
 
 func init() {

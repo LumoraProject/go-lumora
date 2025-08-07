@@ -24,8 +24,8 @@ import (
 	"sync"
 
 	gokzg4844 "github.com/crate-crypto/go-eth-kzg"
-	ckzg4844 "github.com/ethereum/c-kzg-4844/v2/bindings/go"
-	"github.com/ethereum/go-ethereum/common/hexutil"
+	ckzg4844 "github.com/LumoraProject/c-kzg-4844/v2/bindings/go"
+	"github.com/LumoraProject/go-lumora/common/hexutil"
 )
 
 // ckzgAvailable signals whether the library was compiled into Geth.

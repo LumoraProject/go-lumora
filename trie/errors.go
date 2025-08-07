@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/LumoraProject/go-lumora/common"
 )
 
 // ErrCommitted is returned when an already committed trie is requested for usage.

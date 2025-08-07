@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/ethereum/go-ethereum/cmd/devp2p/internal/ethtest"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/rlpx"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/LumoraProject/go-lumora/cmd/devp2p/internal/ethtest"
+	"github.com/LumoraProject/go-lumora/crypto"
+	"github.com/LumoraProject/go-lumora/p2p"
+	"github.com/LumoraProject/go-lumora/p2p/enode"
+	"github.com/LumoraProject/go-lumora/p2p/rlpx"
+	"github.com/LumoraProject/go-lumora/rlp"
 	"github.com/urfave/cli/v2"
 )
 

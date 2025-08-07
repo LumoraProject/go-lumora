@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/internal/cmdtest"
-	"github.com/ethereum/go-ethereum/internal/reexec"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/LumoraProject/go-lumora/internal/cmdtest"
+	"github.com/LumoraProject/go-lumora/internal/reexec"
+	"github.com/LumoraProject/go-lumora/rpc"
 )
 
 type testgeth struct {

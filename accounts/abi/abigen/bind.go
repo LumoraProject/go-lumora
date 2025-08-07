@@ -29,8 +29,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/accounts/abi"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 var (

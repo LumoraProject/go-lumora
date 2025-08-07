@@ -21,10 +21,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/beacon/params"
+	"github.com/LumoraProject/go-lumora/beacon/types"
+	"github.com/LumoraProject/go-lumora/common"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 // HeadTracker keeps track of the latest validated head and the "prefetch" head

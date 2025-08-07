@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/internal/version"
+	"github.com/LumoraProject/go-lumora/internal/version"
 	"github.com/urfave/cli/v2"
 )
 

@@ -19,7 +19,7 @@ package internal
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/core/vm"
+	"github.com/LumoraProject/go-lumora/core/vm"
 )
 
 func TestMemCopying(t *testing.T) {

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
+	"github.com/LumoraProject/go-lumora/p2p/enode"
+	"github.com/LumoraProject/go-lumora/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

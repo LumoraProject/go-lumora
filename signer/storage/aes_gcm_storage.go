@@ -24,7 +24,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/log"
 )
 
 type storedCredential struct {

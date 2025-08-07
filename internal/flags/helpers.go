@@ -23,8 +23,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/internal/version"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/internal/version"
+	"github.com/LumoraProject/go-lumora/log"
 	"github.com/mattn/go-isatty"
 	"github.com/urfave/cli/v2"
 )

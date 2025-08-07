@@ -19,10 +19,10 @@ package main
 import (
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/devp2p/internal/v4test"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/internal/utesting"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/LumoraProject/go-lumora/cmd/devp2p/internal/v4test"
+	"github.com/LumoraProject/go-lumora/internal/flags"
+	"github.com/LumoraProject/go-lumora/internal/utesting"
+	"github.com/LumoraProject/go-lumora/log"
 	"github.com/urfave/cli/v2"
 )
 

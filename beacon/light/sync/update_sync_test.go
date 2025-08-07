@@ -19,8 +19,8 @@ package sync
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/beacon/light/request"
-	"github.com/ethereum/go-ethereum/beacon/types"
+	"github.com/LumoraProject/go-lumora/beacon/light/request"
+	"github.com/LumoraProject/go-lumora/beacon/types"
 )
 
 func TestCheckpointInit(t *testing.T) {

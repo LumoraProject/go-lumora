@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/eth/protocols/snap"
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/LumoraProject/go-lumora/core"
+	"github.com/LumoraProject/go-lumora/eth/protocols/snap"
+	"github.com/LumoraProject/go-lumora/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network
